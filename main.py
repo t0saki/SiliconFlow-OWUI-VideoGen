@@ -2,7 +2,7 @@
 title: SiliconFlow Video Pipeline
 author: tosaki
 author_url: https://github.com/t0saki
-project_url: (Your Project URL)
+project_url: https://github.com/t0saki/SiliconFlow-OWUI-VideoGen
 version: 1.0.0
 license: Apache License 2.0
 description:
