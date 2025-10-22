@@ -28,6 +28,7 @@ features:
     - 自动解析最后一条用户消息以提取多模态内容 (文本和图像 URL)。
     - 将最终输出格式化为 HTML 嵌入式 <video> 播放器和 Markdown 下载链接。
     - 健壮的错误处理机制，覆盖 API 失败、HTTP 错误和请求超时。
+thanks: https://linux.do/t/topic/292458
 """
 
 import asyncio
